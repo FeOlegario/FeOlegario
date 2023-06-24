@@ -26,4 +26,15 @@
 <!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 
 
+
+<div>
+    <h2 align="center">SOBRE MIM</h2>
+    <p align="justify">
+      Ex estudante de licenciatura em física na Faculdade federal do Pará - UFPA, decidi mudar o curso da minha carreira, entrando para o meio de TI. Começando agora o curso de Analise e desenvolvimento de sistemas, mas já atuo, atualmente, na área de Analista BI na Secretaria de segurança publica do Estado do Pará - SEGUP. Desenvolvendo projetos para uso interno da SEGUP, para fins de análise e tomada de decisões precisas.
+    </p>
+
+</div>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=footer"/>
