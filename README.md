@@ -1,9 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00D1FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Felipo+Olegário;I'm+23+years+old;I'm+from+Brazil;I+a+student+of+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FeOlegario&theme=react-dark&&area=true&hide_border=true&custom_title=My%20Contribution%20Graphic&hide_border=true&height=300)](https://github.com/FeOlegario/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FeOlegario&show_icons=true&count_private=true&hide_border=true&title_color=67CEEB&icon_color=67CEEB&text_color=c9d1d9&bg_color=0d1117" alt="Felipo Olegário github stats" /> 
@@ -19,22 +14,4 @@
 
 
 
-### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![PowerBi](https://img.shields.io/badge/-PowerBi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
-<!-- ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp; -->
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 
-
-
-<div>
-    <h2 align="center">SOBRE MIM</h2>
-    <p align="justify">
-      Ex estudante de licenciatura em física na Faculdade federal do Pará - UFPA, decidi mudar o curso da minha carreira, entrando para o meio de TI. Começando agora o curso de Analise e desenvolvimento de sistemas, mas já atuo, atualmente, na área de Analista BI na Secretaria de segurança publica do Estado do Pará - SEGUP. Desenvolvendo projetos para uso interno da SEGUP, para fins de análise e tomada de decisões precisas.
-    </p>
-
-</div>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=120&section=footer"/>
